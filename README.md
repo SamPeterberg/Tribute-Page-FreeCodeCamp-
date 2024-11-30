@@ -86,12 +86,5 @@ You! For taking the time to view and engage with this project.
 ⭐️ Don’t forget to star the repository if you find it useful or inspiring!
 Happy Coding!
 
-vbnet
-Copy code
-
-Copy and paste the above text into your `README.md` file in the GitHub repository to provide a complete, professional description of your project.
-
-
-
 
 
